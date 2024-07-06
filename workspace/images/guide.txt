@@ -1,0 +1,6 @@
+This folder can contain your images for training your moddel 
+Training -70% 
+Testing - 20%
+Vaidation - 10%
+
+This is the spilt I would normally go with 
